@@ -1,0 +1,21 @@
+C:\Users\Bolivar\Desktop\Task Manager\Task Manager\obj\Debug\Task Manager.csprojResolveAssemblyReference.cache
+C:\Users\Bolivar\Desktop\Task Manager\Task Manager\obj\Debug\TaskInputWindow.g.cs
+C:\Users\Bolivar\Desktop\Task Manager\Task Manager\obj\Debug\PersonInputWindow.g.cs
+C:\Users\Bolivar\Desktop\Task Manager\Task Manager\obj\Debug\PersonListWindow.g.cs
+C:\Users\Bolivar\Desktop\Task Manager\Task Manager\obj\Debug\TaskListWindow.g.cs
+C:\Users\Bolivar\Desktop\Task Manager\Task Manager\obj\Debug\App.g.cs
+C:\Users\Bolivar\Desktop\Task Manager\Task Manager\obj\Debug\Task Manager_MarkupCompile.cache
+C:\Users\Bolivar\Desktop\Task Manager\Task Manager\obj\Debug\Task Manager_MarkupCompile.lref
+C:\Users\Bolivar\Desktop\Task Manager\Task Manager\bin\Debug\Task Manager.exe.config
+C:\Users\Bolivar\Desktop\Task Manager\Task Manager\bin\Debug\Task Manager.exe
+C:\Users\Bolivar\Desktop\Task Manager\Task Manager\bin\Debug\Task Manager.pdb
+C:\Users\Bolivar\Desktop\Task Manager\Task Manager\obj\Debug\TaskInputWindow.baml
+C:\Users\Bolivar\Desktop\Task Manager\Task Manager\obj\Debug\PersonInputWindow.baml
+C:\Users\Bolivar\Desktop\Task Manager\Task Manager\obj\Debug\PersonListWindow.baml
+C:\Users\Bolivar\Desktop\Task Manager\Task Manager\obj\Debug\TaskListWindow.baml
+C:\Users\Bolivar\Desktop\Task Manager\Task Manager\obj\Debug\Task Manager.g.resources
+C:\Users\Bolivar\Desktop\Task Manager\Task Manager\obj\Debug\Task_Manager.Properties.Resources.resources
+C:\Users\Bolivar\Desktop\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.GenerateResource.Cache
+C:\Users\Bolivar\Desktop\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\Bolivar\Desktop\Task Manager\Task Manager\obj\Debug\Task Manager.exe
+C:\Users\Bolivar\Desktop\Task Manager\Task Manager\obj\Debug\Task Manager.pdb
